@@ -1,0 +1,169 @@
+[{
+    "numToStr": {
+        "gender": {
+            "1": "Male",
+            "2": "Female"
+        },
+        "field": {
+            "1": "Law",
+            "2": "Math",
+            "3": "Social Science, Psychologist",
+            "4": "Medical Science, Pharmaceuticals, and Bio Tech",
+            "5": "Engineering  ",
+            "6": "English/Creative Writing/ Journalism",
+            "7": "History/Religion/Philosophy",
+            "8": "Business/Econ/Finance",
+            "9": "Education, Academia",
+            "10": "Biological Sciences/Chemistry/Physics",
+            "11": "Social Work",
+            "12": "Undergrad/undecided",
+            "13": "Political Science/International Affairs",
+            "14": "Film",
+            "15": "Fine Arts/Arts Administration",
+            "16": "Languages",
+            "17": "Architecture",
+            "18": "Other"
+        },
+        "race": {
+            "1": "Black/African American",
+            "2": "European/Caucasian-American",
+            "3": "Latino/Hispanic American",
+            "4": "Asian/Pacific Islander/Asian-American",
+            "5": "Native American",
+            "6": "Other"
+        },
+        "go_out": {
+            "1": "Several times a week",
+            "2": "Twice a week",
+            "3": "Once a week",
+            "4": "Twice a month",
+            "5": "Once a month",
+            "6": "Several times a year",
+            "7": "Almost never"
+        },
+
+        "date": {
+            "1": "Several times a week",
+            "2": "Twice a week",
+            "3": "Once a week",
+            "4": "Twice a month",
+            "5": "Once a month",
+            "6": "Several times a year",
+            "7": "Almost never"
+        },
+
+        "goal": {
+            "1": "Seemed like a fun night out",
+            "2": "To meet new people",
+            "3": "To get a date",
+            "4": "Looking for a serious relationship",
+            "5": "To say I did it",
+            "6": "Other"
+        },
+        "career_c": {
+            "1": "Lawyer",
+            "2": "Academic/Research",
+            "3": "Psychologist ",
+            "4": "Doctor/Medicine",
+            "5": "Engineer",
+            "6": "Creative Arts/Entertainment",
+            "7": "Banking/Consulting/Finance/Marketing/Business/CEO/Entrepreneur/Admin",
+            "8": "Real Estate",
+            "9": "International/Humanitarian Affairs",
+            "10": "Undecided",
+            "11": "Social Work",
+            "12": "Speech Pathology",
+            "13": "Politics",
+            "14": "Pro sports/Athletics",
+            "15": "Other",
+            "16": "Journalism",
+            "17": "Architecture"
+        }
+
+
+    },
+    "strToNum": {
+        "gender": {
+            "Male": "1",
+            "Female": "2"
+        },
+        "field": {
+            "Law": "1",
+            "Math": "2",
+            "Social Science, Psychologist": "3",
+            "Medical Science, Pharmaceuticals, and Bio Tech": "4",
+            "Engineering  ": "5",
+            "English/Creative Writing/ Journalism": "6",
+            "History/Religion/Philosophy": "7",
+            "Business/Econ/Finance": "8",
+            "Education, Academia": "9",
+            "Biological Sciences/Chemistry/Physics": "10",
+            "Social Work": "11",
+            "Undergrad/undecided": "12",
+            "Political Science/International Affairs": "13",
+            "Film": "14",
+            "Fine Arts/Arts Administration": "15",
+            "Languages": "16",
+            "Architecture": "17",
+            "Other": "18"
+
+        },
+
+        "race": {
+            "Black/African American": "1",
+            "European/Caucasian-American": "2",
+            "Latino/Hispanic American": "3",
+            "Asian/Pacific Islander/Asian-American": "4",
+            "Native American": "5",
+            "Other": "6"
+        },
+
+        "go_out": {
+            "Several times a week": "1",
+            "Twice a week": "2",
+            "Once a week": "3",
+            "Twice a month": "4",
+            "Once a month": "5",
+            "Several times a year": "6",
+            "Almost never": "7"
+        },
+        "date": {
+            "Several times a week": "1",
+            "Twice a week": "2",
+            "Once a week": "3",
+            "Twice a month": "4",
+            "Once a month": "5",
+            "Several times a year": "6",
+            "Almost never": "7"
+        },
+
+        "goal": {
+            "Seemed like a fun night out": "1",
+            "To meet new people": "2",
+            "To get a date": "3",
+            "Looking for a serious relationship": "4",
+            "To say I did it": "5",
+            "Other": "6"
+        },
+        "career_c": {
+            "Lawyer": "1",
+            "Academic/Research": "2",
+            "Psychologist ": "3",
+            "Doctor/Medicine": "4",
+            "Engineer": "5",
+            "Creative Arts/Entertainment": "6",
+            "Banking/Consulting/Finance/Marketing/Business/CEO/Entrepreneur/Admin": "7",
+            "Real Estate": "8",
+            "International/Humanitarian Affairs": "9",
+            "Undecided": "10",
+            "Social Work": "11",
+            "Speech Pathology": "12",
+            "Politics": "13",
+            "Pro sports/Athletics": "14",
+            "Other": "15",
+            "Journalism": "16",
+            "Architecture": "17"
+        }
+
+    }
+}]
